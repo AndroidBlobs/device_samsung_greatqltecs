@@ -1,0 +1,42 @@
+libDLInterface.camera.samsung.so
+libOpenCL.so
+libOpenCv.camera.samsung.so
+libOpenCv.so
+libQjpeg.so
+libSDKRecognitionText.so
+libSEF.so
+lib_AnimationEngine_O.so 64
+libadsprpc.so
+libandroid_ssrm.so
+libapex_jni.so
+libcdsprpc.so
+libexifa.so
+libfastcvopt.so
+libhumantracking_util.camera.samsung.so
+libjpega.so
+libnpu.so
+libobject_detection_classification_snap.so
+libopensslsmime.so
+libqti-perfd-client.so
+libsaiv_BeautySolution.so
+libsaiv_HprFace_FD_jni.so
+libsaiv_HprFace_LD_jni.so
+libsaiv_HprFace_utils_jni.so
+libsaiv_vision.so
+libsdsprpc.so
+libsecimaging.so
+libsecjpeginterface.so
+libsemcamera_jni.so
+libsmart_cropping.camera.samsung.so
+libsmart_cropping.so
+libsnap_caffe.so
+libsnap_caffe_wrapper.so
+libsnap_compute.so
+libsnap_compute_wrapper.so
+libsnap_vndk.so
+libsomp.camera.samsung.so
+libsomp.so
+libsurfaceutil.so
+libvideoeditor_O_zf.so 64
+libvideoeditor_jni_O_zf.so 64
+libxcv.camera.samsung.so
